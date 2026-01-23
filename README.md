@@ -1,3 +1,4 @@
+![Visitors](https://stats.wh3e.se/badge/superlongone/torrentleech-monitor)
 # TorrentLeech Freeleech Monitor
 
 Automated monitor for TorrentLeech that detects freeleech torrents in real-time via IRC and RSS, then automatically downloads and optionally uploads them to an FTP server.
